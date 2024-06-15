@@ -1,0 +1,17 @@
+.home-container{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	padding-top: 40px;
+}
+
+.home-wrapper{
+	width: 100%;
+	min-height: 300px;
+	max-width: 1300px;
+	padding: 15px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 10px;
+}
